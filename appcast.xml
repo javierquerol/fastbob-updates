@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>FastBoB</title>
-    <link>https://raw.githubusercontent.com/JavierQuerol/FastBoB-updates/main/appcast.xml</link>
-    <description>Canal de actualizaciones de FastBoB</description>
-    <language>es</language>
-    <!--
-      Las entradas <item> de cada versión se generan automáticamente con
-      `generate_appcast` al ejecutar release.sh en el proyecto FastBoB.
-      Mientras no haya items, Sparkle informará de que la app está al día.
-    -->
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FastBoB</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 29 May 2026 15:12:05 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JavierQuerol/FastBoB-updates/releases/download/v1.0/FastBoB-1.0.zip" length="3813705" type="application/octet-stream" sparkle:edSignature="wguilgYIzqiVMcDiHdS4t4L9kdO1MRnvsY7KZNvszs1ABHO//UIySEdD3KFvAmcnZPTEW9+kH90s/nNtA8IBBQ=="/>
+        </item>
+    </channel>
 </rss>
