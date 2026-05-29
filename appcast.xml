@@ -4,11 +4,11 @@
         <title>FastBoB</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 29 May 2026 15:22:02 +0200</pubDate>
+            <pubDate>Fri, 29 May 2026 15:34:32 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JavierQuerol/FastBoB-updates/releases/download/v1.0/FastBoB-1.0.zip" length="3813721" type="application/octet-stream" sparkle:edSignature="gu3RKUDMAwoULtIK9P8WnSnl1mOJNNj/HXxhI8EVJCDDKGPA6d6fpLK09n2xC2/shMsnPBeM8lXNN5d0MwyAAw=="/>
+            <enclosure url="https://github.com/JavierQuerol/FastBoB-updates/releases/download/v1.1/FastBoB-1.1.zip" length="3749817" type="application/octet-stream" sparkle:edSignature="m0aUgy+0azTF8mhefBmHdYNPXBTvHwyU06qIQnfueEmn1ZH/R7rarSugbWVQGlBtGtsaRoORALESSjuo/DCVAQ=="/>
         </item>
     </channel>
 </rss>
