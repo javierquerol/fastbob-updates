@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FastBoB</title>
+    <link>https://raw.githubusercontent.com/JavierQuerol/FastBoB-updates/main/appcast.xml</link>
+    <description>Canal de actualizaciones de FastBoB</description>
+    <language>es</language>
+    <!--
+      Las entradas <item> de cada versión se generan automáticamente con
+      `generate_appcast` al ejecutar release.sh en el proyecto FastBoB.
+      Mientras no haya items, Sparkle informará de que la app está al día.
+    -->
+  </channel>
+</rss>
